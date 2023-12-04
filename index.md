@@ -1,0 +1,5 @@
+![Image](lab-5.1.png)
+![Image](lab-5.2.png)
+![Image](lab-5.3.png)
+![Image](lab-5.4.png)
+![Image](lab-5.5.png)
